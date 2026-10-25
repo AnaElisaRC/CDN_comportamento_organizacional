@@ -1,15 +1,16 @@
-# Comportamento Organizacional
+👥 Comportamento Organizacional
 
-Material, atividades e plano de reposição da disciplina de Comportamento Organizacional, com a apostila da disciplina e o livro-base de Robbins.
+Este repositório reúne os materiais de estudo, atividades e planos de reposição da disciplina de Comportamento Organizacional do curso de Tecnologia em Ciência de Dados para Negócios da FATEC Votorantim.
 
-## Conteúdo
+O conteúdo abrange conceitos de dinâmica grupal, cultura e clima organizacional, liderança, motivação e gestão de pessoas, utilizando a apostila da disciplina e o livro-base de Stephen P. Robbins.
 
-- APOSTILA COMPORTAMENTO ORGANIZACIONAL.pdf
-- Comportamento Organizacional Ativ.pdf
-- Comportamento Organizacional.docx
-- Plano de Reposição Elise Rubinato.docx
-- robbins_2009_livro_comportamento_organiz.pdf
+📜 Licença e Uso
 
-## Autora
+Este repositório foi criado para fins de registro acadêmico e consulta de portfólio.
+- ❌ Não é permitida a cópia, reprodução ou redistribuição do conteúdo sem autorização prévia.
+- 👁️ Disponível apenas para visualização e consulta.
 
-Ana Elisa Rubinato - Ciência de Dados para Negócios (FATEC)
+✍️ Autora
+
+Ana Elisa Rubinato Cavalheiro  
+Graduanda em Tecnologia em Ciência de Dados para Negócios — FATEC Votorantim
